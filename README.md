@@ -14,6 +14,36 @@ A simple Python GUI application for modifying the frame rate (FPS) of video file
 - **Smart naming**: Automatically names output files as `originalfilename_fps.extension`
 - **Overwrite protection**: Warns before overwriting existing files
 
+## Sample Results
+
+### Before and After Comparison
+
+Check out the `samples/` folder to see TempoTweak in action:
+
+**Original Video (test.mp4)**
+- File: `samples/test.mp4`
+- Original FPS: 30fps
+- Smooth, natural motion
+
+**After Processing (test_4fps.mp4)**
+- File: `samples/test_4fps.mp4` 
+- Modified FPS: 4fps
+- Choppy, artistic stop-motion effect
+
+*The dramatic difference in frame rate creates unique visual effects - perfect for artistic expression, meme creation, or just experimenting with different visual styles! 🎬*
+
+## Project Structure
+
+```
+TempoTweak/
+├── tempo_tweak.py          # Main application
+├── requirements.txt        # Dependencies
+├── README.md              # This file
+└── samples/               # Sample videos demonstrating the effect
+    ├── test.mp4           # Original video sample (30fps)
+    └── test_4fps.mp4      # 4fps converted sample
+```
+
 ## Requirements
 
 - Python 3.6 or higher
