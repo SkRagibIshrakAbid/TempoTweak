@@ -2,13 +2,13 @@
 
 A simple Python GUI application for modifying the frame rate (FPS) of video files.
 
-*Inspired by the Ekko and Jinx dancing scene at 4fps - sometimes you just need to see things at different frame rates! 😄*
+*Inspired by the Ekko and Jinx dancing scene from Arcane S2*
 
 ## Features
 
 - **User-friendly GUI**: Built with tkinter for easy interaction
 - **Video format support**: Supports MP4, AVI, MOV, MKV, WMV, FLV, WebM, and M4V formats
-- **Custom FPS**: Enter any desired frame rate or use quick-select buttons (24, 30, 60, 120)
+- **Custom FPS**: Enter any desired frame rate or use quick-select buttons (4, 24, 30, 60, 120)
 - **Video information**: Display current video duration, FPS, and resolution
 - **Progress tracking**: Real-time progress bar during video processing
 - **Smart naming**: Automatically names output files as `originalfilename_fps.extension`
