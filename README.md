@@ -23,14 +23,16 @@ A simple Python GUI application for modifying the frame rate (FPS) of video file
 <td align="center">
 <h4>🎬 Original Video (30fps)</h4>
 
-<video src="https://github.com/SkRagibIshrakAbid/TempoTweak/raw/main/samples/test.mp4" controls width="400"></video>
+https://github.com/user-attachments/assets/f91ac385-6203-4572-acd3-087ffc6f13bc
 
 *Smooth, natural motion*
 </td>
 <td align="center">
 <h4>🎭 After TempoTweak (4fps)</h4>
 
-<video src="https://github.com/SkRagibIshrakAbid/TempoTweak/raw/main/samples/test_4fps.mp4" controls width="400"></video>
+
+https://github.com/user-attachments/assets/59c8b03a-bb28-458f-a648-b221835715ef
+
 
 *Choppy, artistic stop-motion effect*
 </td>
